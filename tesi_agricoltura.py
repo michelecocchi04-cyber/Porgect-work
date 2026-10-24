@@ -1891,7 +1891,7 @@ def menu_principale():
         elif opzione_menu == "4":
             fine = "USCITA PROGRAMMA"
             print("\n" + f"{fine.center(larghezza_terminale)}" + "\n\n")
-            print("GRAZIE PER ESSERE STATO ALL0INTERNO DEL NOSTRO PROGRAMMA")
+            print("GRAZIE PER ESSERE STATO ALL'INTERNO DEL NOSTRO PROGRAMMA")
             print("-" * 50)
             return None 
         
